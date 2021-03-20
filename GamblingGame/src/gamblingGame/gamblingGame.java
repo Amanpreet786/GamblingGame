@@ -38,9 +38,10 @@ class gamblingGame {
 			System.out.print("Good Bye");	
 		}
 			
+			System.out.print("\nEnd of Game ");
 
 	
 	}
-
+	
 	}
 
